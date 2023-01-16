@@ -6,7 +6,7 @@ I've coded in langauges like:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 1em" /> JavaScript and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 1em" /> TypeScript, like where things are moving there
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="width: 1em" /> Ruby, Rails is still one of the best web frameworks
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 1em" /> C and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 1em" /> C++, old school thing
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 1em" /> C#, mainly when experementing with Unity
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 1em" /> C#, mainly when experimenting with Unity
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="width: 1em" /> GDScript, scripting language of Godot, contributed there
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" style="width: 1em" /> Haxe, also contributed there
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" style="width: 1em" /> OCaml, this is the lang Haxe is written in
